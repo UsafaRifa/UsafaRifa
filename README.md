@@ -55,6 +55,7 @@
             height: 40px;
         }
     </style>
+ <body>
     <div class="content">
         <h3 class="title">Languages and Tools</h3>
         <div class="grid">
@@ -117,7 +118,7 @@
             </a>
         </div>
     </div>
-
+</body>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usafarifa&show_icons=true&locale=en&layout=compact" alt="usafarifa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usafarifa&show_icons=true&locale=en" alt="usafarifa" /></p>
