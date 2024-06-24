@@ -15,56 +15,47 @@
 <a href="https://kaggle.com/usafarifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="usafarifa" height="30" width="40" /></a>
 </p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Languages and Tools</title>
-    <style>
+<style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-            margin: 0;
-            padding: 0;
+            background-color: #f0f0f0;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
+            margin: 0;
         }
-        .container {
-            background-color: #fff;
-            padding: 20px;
+        .content {
+            background: white;
             border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            max-width: 800px;
+            width: 100%;
+            text-align: center;
         }
         .title {
-            text-align: center;
+            font-size: 24px;
             margin-bottom: 20px;
-            color: #333;
         }
         .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-            gap: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
         }
         .grid a {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            transition: transform 0.2s;
+            margin: 10px;
+            transition: transform 0.3s;
         }
         .grid a:hover {
             transform: scale(1.1);
         }
         .grid img {
-            max-width: 60px;
-            max-height: 60px;
+            width: 40px;
+            height: 40px;
         }
     </style>
-</head>
-<body>
-    <div class="container">
+    <div class="content">
         <h3 class="title">Languages and Tools</h3>
         <div class="grid">
             <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -126,8 +117,6 @@
             </a>
         </div>
     </div>
-</body>
-</html>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usafarifa&show_icons=true&locale=en&layout=compact" alt="usafarifa" /></p>
 
