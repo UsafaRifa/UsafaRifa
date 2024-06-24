@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Usafa Rifa</h1>
+<h1 align="center">Hi 👋, I'm Usafa Rifa ![MondayGIF](https://github.com/UsafaRifa/UsafaRifa/assets/70034451/8063c7b4-3739-4bad-bef3-9a2710510d6b)
+</h1>
 <h3 align="center">I’m a hardworking individual looking for opportunities to use my skills on real projects. I want to learn, grow professionally, and be a valuable part of a dynamic team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usafarifa&label=Profile%20views&color=0e75b6&style=flat" alt="usafarifa" /> </p>
